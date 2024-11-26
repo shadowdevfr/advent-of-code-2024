@@ -1,0 +1,46 @@
+name: Upload Go test results
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        days: 
+            - 'dayOne'
+            #- 'dayTwo'
+            #- 'dayThree'
+            #- 'dayFour'
+            #- 'dayFive'
+            #- 'daySix'
+            #- 'daySeven'
+            #- 'dayEight'
+            #- 'dayNine'
+            #- 'dayTen'
+            #- 'dayEleven'
+            #- 'dayTwelve'
+            #- 'dayThirteen'
+            #- 'dayFourteen'
+            #- 'dayFifteen'
+            #- 'daySixteen'
+            #- 'daySeventeen'
+            #- 'dayEighteen'
+            #- 'dayNineteen'
+            #- 'dayTwenty'
+            #- 'dayTwentyOne'
+            #- 'dayTwentyTwo'
+            #- 'dayTwentyThree'
+            #- 'dayTwentyFour'
+            #- 'dayTwentyFive'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.23.x'
+      - name: Install dependencies
+        run: go get .
+      - name: Test with Go
+        run: go test ./${{matrix.days}}
