@@ -6,7 +6,7 @@ Every time, solutions are structured in the following way: Each day has its own 
 Of course my solutions might not be the best, but as I'm doing this on my (very little) free time in university, I'm not really looking for the best solution, but for the one that works. If you have any suggestions or improvements, feel free to open an issue or a pull request! :)
 
 ## 2024
-- Day 1: ???
+- [Day 1: Historian Hysteria](/tree/main/dayOne)
 - Day 2: ???
 - Day 3: ???
 - Day 4: ???

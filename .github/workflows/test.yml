@@ -1,10 +1,9 @@
-name: Upload Go test results
+name: Run go tests
 
 on: [push]
 
 jobs:
-  build:
-
+  test:
     runs-on: ubuntu-latest
     strategy:
       matrix:
