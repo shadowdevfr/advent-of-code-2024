@@ -1,4 +1,4 @@
-name: Run go tests
+name: Run tests
 
 on: [push]
 
