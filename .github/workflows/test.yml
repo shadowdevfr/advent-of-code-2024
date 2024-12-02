@@ -9,7 +9,7 @@ jobs:
       matrix:
         days: 
             - 'dayOne'
-            #- 'dayTwo'
+            - 'dayTwo'
             #- 'dayThree'
             #- 'dayFour'
             #- 'dayFive'

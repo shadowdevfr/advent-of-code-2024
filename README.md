@@ -7,7 +7,7 @@ Of course my solutions might not be the best, but as I'm doing this on my (very 
 
 ## 2024
 - [Day 1: Historian Hysteria](dayOne)
-- Day 2: ???
+- [Day 2: Red-Nosed Reports](dayTwo)
 - Day 3: ???
 - Day 4: ???
 - Day 5: ???
