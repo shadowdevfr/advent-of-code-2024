@@ -10,7 +10,7 @@ jobs:
         days: 
             - 'dayOne'
             - 'dayTwo'
-            #- 'dayThree'
+            - 'dayThree'
             #- 'dayFour'
             #- 'dayFive'
             #- 'daySix'
