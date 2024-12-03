@@ -56,7 +56,7 @@ func TestPuzzleInput(t *testing.T) {
 
 	fmt.Printf("----- Solution is %d", result)
 
-	if Solve(left, right) != 936063 {
+	if result != 936063 {
 		t.Fail()
 	}
 }
