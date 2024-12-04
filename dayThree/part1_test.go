@@ -38,8 +38,6 @@ func TestPuzzleInput(t *testing.T) {
 		t.Error(err)
 	}
 
-	fmt.Println(string(file))
-
 	var result int = Solve(string(file))
 
 	fmt.Printf("----- Solution is %d", result)
