@@ -8,28 +8,30 @@ Of course my solutions might not be the best, but as I'm doing this on my (very 
 I'm currently not doing part two of the problems yet due to the lack of free time. I might go back to the problems and solve part two too!
 
 ## 2024
-- [Day 1: Historian Hysteria](dayOne) (Part 1 only)
-- [Day 2: Red-Nosed Reports](dayTwo) (Part 1 only)
-- [Day 3: Mull It Over](dayThree) (Part 1 only)
-- Day 4: ???
-- Day 5: ???
-- Day 6: ???
-- Day 7: ???
-- Day 8: ???
-- Day 9: ???
-- Day 10: ???
-- Day 11: ???
-- Day 12: ???
-- Day 13: ???
-- Day 14: ???
-- Day 15: ???
-- Day 16: ???
-- Day 17: ???
-- Day 18: ???
-- Day 19: ???
-- Day 20: ???
-- Day 21: ???
-- Day 22: ???
-- Day 23: ???
-- Day 24: ???
-- Day 25: ???
+| Day                                   | Part 1 | Part 2 |
+|---------------------------------------|--------|--------|
+| [Day 1: Historian Hysteria](dayOne)   | ✅     | ✅     |
+| [Day 2: Red-Nosed Reports](dayTwo)    | ✅     |        |
+| [Day 3: Mull It Over](dayThree)       | ✅     | ✅     |
+| [Day 4: Ceres Search](dayFour)        | ✅     |        |
+| Day 5: ????                           |        |        |
+| Day 6: ????                           |        |        |
+| Day 7: ????                           |        |        |
+| Day 8: ????                           |        |        |
+| Day 9: ????                           |        |        |
+| Day 10: ????                          |        |        |
+| Day 11: ????                          |        |        |
+| Day 12: ????                          |        |        |
+| Day 13: ????                          |        |        |
+| Day 14: ????                          |        |        |
+| Day 15: ????                          |        |        |
+| Day 16: ????                          |        |        |
+| Day 17: ????                          |        |        |
+| Day 18: ????                          |        |        |
+| Day 19: ????                          |        |        |
+| Day 20: ????                          |        |        |
+| Day 21: ????                          |        |        |
+| Day 22: ????                          |        |        |
+| Day 23: ????                          |        |        |
+| Day 24: ????                          |        |        |
+| Day 25: ????                          |        |        |
