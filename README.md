@@ -14,7 +14,7 @@ I'm currently not doing part two of the problems yet due to the lack of free tim
 | [Day 2: Red-Nosed Reports](dayTwo)    | ✅     |        |
 | [Day 3: Mull It Over](dayThree)       | ✅     | ✅     |
 | [Day 4: Ceres Search](dayFour)        | ✅     | ✅     |
-| Day 5: ????                           |        |        |
+| [Day 5: Print Queue](dayFive)         | ✅     |        |
 | Day 6: ????                           |        |        |
 | Day 7: ????                           |        |        |
 | Day 8: ????                           |        |        |

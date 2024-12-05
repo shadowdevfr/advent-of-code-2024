@@ -12,7 +12,7 @@ jobs:
             - 'dayTwo'
             - 'dayThree'
             - 'dayFour'
-            #- 'dayFive'
+            - 'dayFive'
             #- 'daySix'
             #- 'daySeven'
             #- 'dayEight'
