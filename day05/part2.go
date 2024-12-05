@@ -1,4 +1,4 @@
-package dayfive
+package day05
 
 import "sort"
 

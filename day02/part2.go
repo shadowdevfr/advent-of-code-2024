@@ -1,4 +1,4 @@
-package dayTwo
+package day02
 
 func isListSafeWithDampener(tab []int) bool {
 	// We go through all the elements of the list and remove them one by one, then we check if the list is safe

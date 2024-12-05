@@ -1,4 +1,4 @@
-package dayfour
+package day04
 
 func SolvePartTwo(input [][]string) (amount int) {
 	// navigate through the input with a margin of 1

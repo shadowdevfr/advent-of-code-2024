@@ -1,4 +1,4 @@
-package dayfour
+package day04
 
 import (
 	"bufio"
@@ -8,8 +8,8 @@ import (
 	"testing"
 )
 
-func TestExamplePartTwo(t *testing.T) {
-	var result int = SolvePartTwo([][]string{{"M", "M", "M", "S", "X", "X", "M", "A", "S", "M"},
+func TestExample(t *testing.T) {
+	var result int = Solve([][]string{{"M", "M", "M", "S", "X", "X", "M", "A", "S", "M"},
 		{"M", "S", "A", "M", "X", "M", "S", "M", "S", "A"},
 		{"A", "M", "X", "S", "X", "M", "A", "A", "M", "M"},
 		{"M", "S", "A", "M", "A", "S", "M", "S", "M", "X"},
@@ -20,12 +20,13 @@ func TestExamplePartTwo(t *testing.T) {
 		{"M", "A", "M", "M", "M", "X", "M", "M", "M", "M"},
 		{"M", "X", "M", "X", "A", "X", "M", "A", "S", "X"},
 	})
-	if result != 9 {
+
+	if result != 18 {
 		t.Fail()
 	}
 }
 
-func TestPuzzleInputPartTwo(t *testing.T) {
+func TestPuzzleInput(t *testing.T) {
 
 	file, err := os.Open("input.txt")
 	if err != nil {
@@ -40,11 +41,11 @@ func TestPuzzleInputPartTwo(t *testing.T) {
 		input = append(input, strings.Split(scanner.Text(), ""))
 	}
 
-	var result int = SolvePartTwo(input)
+	var result int = Solve(input)
 
 	fmt.Printf("----- Solution is %d", result)
 
-	if result != 1864 {
+	if result != 2468 {
 		t.Error()
 	}
 }
