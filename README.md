@@ -10,11 +10,11 @@ I'm currently not doing part two of the problems yet due to the lack of free tim
 ## 2024
 | Day                                   | Part 1 | Part 2 |
 |---------------------------------------|--------|--------|
-| [Day 1: Historian Hysteria](dayOne)   | ✅     | ✅     |
-| [Day 2: Red-Nosed Reports](dayTwo)    | ✅     |        |
-| [Day 3: Mull It Over](dayThree)       | ✅     | ✅     |
-| [Day 4: Ceres Search](dayFour)        | ✅     | ✅     |
-| [Day 5: Print Queue](dayFive)         | ✅     | ✅     |
+| [Day 1: Historian Hysteria](dayOne)   | ⭐     | ⭐     |
+| [Day 2: Red-Nosed Reports](dayTwo)    | ⭐     |        |
+| [Day 3: Mull It Over](dayThree)       | ⭐     | ⭐     |
+| [Day 4: Ceres Search](dayFour)        | ⭐     | ⭐     |
+| [Day 5: Print Queue](dayFive)         | ⭐     | ⭐     |
 | Day 6: ????                           |        |        |
 | Day 7: ????                           |        |        |
 | Day 8: ????                           |        |        |
