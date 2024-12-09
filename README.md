@@ -16,7 +16,7 @@ I'm currently not doing part two of the problems yet due to the lack of free tim
 | [Day 4: Ceres Search](day04)          | ⭐     | ⭐     |
 | [Day 5: Print Queue](day05)           | ⭐     | ⭐     |
 | [Day 6: Guard Gallivant](day06)       | ⭐     |        |
-| Day 7: ????                           |        |        |
+| Day 7: ????                           | ⭐     |        |
 | Day 8: ????                           |        |        |
 | Day 9: ????                           |        |        |
 | Day 10: ????                          |        |        |
